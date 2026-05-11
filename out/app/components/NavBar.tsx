@@ -9,6 +9,7 @@ export default function NavBar(){
             <Link href={"/galeria"}>Galeria</Link>
             <Link href={"/tabela"}>Tabela</Link>
             <Link href={"/carousel"}>Carousel</Link>
+            <Link href={"/cadastro"}>Cadastro</Link>
         </nav>
     );
 }
